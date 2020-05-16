@@ -1,0 +1,15 @@
+
+Key Concepts
+
+web scraping
+
+Extracting essential data from a dataset and displaying it is a necessary part of data science;
+therefore individuals can make correct decisions based on data. In this assignment, you will 
+extract some essential economic indicators from some data, you will then display these economic
+indicators in a Dashboard. A dashboard often provides a view of key performance indicators. 
+You also have the option to store the Dashboard on IBM object storage so anyone can view the
+Dashboard, but you will not be marked on this aspect.  The next sections will get you set up
+with IBM object storage, you will need Watson Studio to share your results. Just a note, if 
+you have already signed up for Watson Studio you will still have to get the notebook link at
+the end of the section Watson Studio setup, The dataset is build into the notebook so don't worry.
+
