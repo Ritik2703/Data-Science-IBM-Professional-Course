@@ -1,0 +1,12 @@
+This week, you will get an overview of the various data science tools available to you, 
+hosted on the IBM Developer Skills Network Labs (SN Labs). 
+You will create an account and start exploring some of the features.
+
+Skills Network Labs is an environment that contains tools such as RStudio, 
+Jupyter Notebook, and Zeppelin Notebook. These tools provides an interactive 
+environment for you to perform data analysis, data visualization, machine 
+learning and image recognition. For example, on Jupyter Notebook you can 
+train a model that can recognize the denomination of an Euro banknote by using just the image of the banknote.
+
+to register for lab
+#https://labs.cognitiveclass.ai/register
