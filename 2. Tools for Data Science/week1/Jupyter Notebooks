@@ -1,0 +1,20 @@
+Install Jupyer Notebooks--
+
+Using Anaconda:
+Install Python and Jupyter using the Anaconda Distribution, which includes Python, the Jupyter Notebook, and
+other commonly used packages for scientific computing and data science. To install Anaconda, go through How 
+to install Anaconda on windows? and follow the instructions provided.
+
+Using PIP:
+
+Install Jupyter using the PIP package manager used to install and manage software packages/libraries
+written in Python. To install pip, go through How to install PIP on Windows? and follow the instructions provided.
+
+commmand  -- python -m pip install --upgrade pip
+
+to open -- jupyter notebook
+
+Using Skill Networks Labs
+
+Lab 1 - Jupyter Notebooks - The Basics, Lab 2 -  More features, Lab3- Advanced features
+link-- https://labs.cognitiveclass.ai/tools/jupyterlab/
